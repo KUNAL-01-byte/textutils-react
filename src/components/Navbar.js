@@ -71,5 +71,5 @@ Navbar.propTypes = {
 // Specifies the default values for props:
 Navbar.defaultProps = {
   title: "Stranger",
-  aboutText: "hello",
+  aboutText: "About",
 };
